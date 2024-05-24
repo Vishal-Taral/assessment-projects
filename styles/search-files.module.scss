@@ -1,0 +1,13 @@
+.searchFileContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    .inputBox{
+        height: 2rem;
+        margin-top: 1rem;
+        border-radius: 1rem;
+        width: 20rem;
+        padding: 0 13px 0 13px;
+    }
+}
